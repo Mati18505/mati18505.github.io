@@ -32,14 +32,15 @@ skills:
 
 - name: Go
   logo: /images/sections/skills/go.png
-  summary: "I use to write web servers. I can write scalable, testable, and maintainable programs."
+  summary: "I am using it to write web servers. I can write scalable, testable, and maintainable programs."
   categories: ["basic", "language"]
   url: "https://golang.org/"
 
-- name: Rust
-  logo: /images/sections/skills/rust.png
-  summary: "I've written a few programs. I know how to satisfy a borrow checker. Wanting to continue learning."
+- name: C#
+  logo: /images/sections/skills/c-sharp.png
+  summary: "Wrote Hextale launcher and many smaller projects."
   categories: ["basic", "language"]
+  url: "https://www.opengl.org/"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
