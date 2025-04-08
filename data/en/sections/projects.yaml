@@ -23,7 +23,7 @@ projects:
   role: Owner
   timeline: "March 2025 - Present"
   repo: https://github.com/Mati18505/GridPlay
-  summary: Multiplayer turn based web game server.
+  summary: Turn-based multiplayer online game server.
   tags: ["hobby"]
 
 - name: Godot Voxel Engine

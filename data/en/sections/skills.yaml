@@ -27,18 +27,18 @@ buttons:
 skills:
 - name: C++
   logo: /images/sections/skills/c++.png
-  summary: "Very good knowladge. Written a lot projects in it. "
+  summary: "Very good knowledge. I have written many projects in it."
   categories: ["basic", "language"]
 
 - name: Go
   logo: /images/sections/skills/go.png
-  summary: "Using to write web servers. Capable of writing scalable, testable, and maintainable program."
+  summary: "I use to write web servers. I can write scalable, testable, and maintainable programs."
   categories: ["basic", "language"]
   url: "https://golang.org/"
 
 - name: Rust
   logo: /images/sections/skills/rust.png
-  summary: "Wrote a few programs. Knows how to satisfy borrow checker. Wanting to continue learning."
+  summary: "I've written a few programs. I know how to satisfy a borrow checker. Wanting to continue learning."
   categories: ["basic", "language"]
 
 - name: Docker
