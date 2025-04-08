@@ -1,4 +1,4 @@
-module github.com/Mati18505/github.io
+module github.com/Mati18505/portfolio.github.io
 
 go 1.21
 
